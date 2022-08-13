@@ -1,7 +1,7 @@
 hello, GIT. || content new:  [something is deleted at branch hot-fix] first commit.
 hello, GIT. || content new: [content here must conflict with master branch] second commit.
 hello, GIT. || content new: this message is added at hot-fix branch after third commit.
-hello, GIT.
+hello, GIT. || content new: added at master branch.
 hello, GIT.
 hello, GIT.
 hello, Saturday. Saturday is a sunny day.
