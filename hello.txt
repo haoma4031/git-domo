@@ -1,5 +1,5 @@
 hello, GIT. || content new: this message is added after first commit.
-hello, GIT.
+hello, GIT. || content new: this message is added after second commit.
 hello, GIT.
 hello, GIT.
 hello, GIT.
