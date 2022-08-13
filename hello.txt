@@ -1,6 +1,6 @@
-hello, GIT. || content new: this message is added after first commit.
-hello, GIT. || content new: this message is added after second commit.
-hello, GIT.
+hello, GIT. || content new:  [something is deleted at branch hot-fix] first commit.
+hello, GIT. || content new: [content here must conflict with master branch] second commit.
+hello, GIT. || content new: this message is added at hot-fix branch after third commit.
 hello, GIT.
 hello, GIT.
 hello, GIT.
